@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "theme": {
     "images": {
-      "theme_frame": "images\/theme_frame.png",
+      "theme_frame": "images\/eastman_blue_dark.png",
       "theme_toolbar": "images\/theme_toolbar.png"
     },
     "colors": {
@@ -60,7 +60,7 @@
       "ntp_background_repeat": "no-repeat"
     }
   },
-  "name": "Simple and Libre (Green)",
+  "name": "Simple and Libre (Eastman Blue)",
   "version": "1.0.0",
   "description": "https://github.com/ryanpcmcquen/CHROME_THEME__simpleAndLibre"
 }
